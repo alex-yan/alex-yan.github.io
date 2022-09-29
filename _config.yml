@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "alex-yan / 阿里云专家"
+title                    : "阿里云专家"
 title_separator          : "-"
 name                     : &name "闫朝喜"
 description              : &description "IT存储人士，深耕分布式存储10+，目前聚焦数据湖业务"
