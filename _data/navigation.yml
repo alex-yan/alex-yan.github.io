@@ -15,8 +15,8 @@ main:
   - title: "博客归档"
     url: /year-archive/
     
-  - title: "个人简介导航"
+  - title: "个人简介"
     url: /cv/
     
-  - title: "Guide"
+  - title: "导航"
     url: /markdown/
