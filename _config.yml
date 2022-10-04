@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "存储/阿里云"
 title_separator          : "-"
-name                     : &name "闫朝喜"
+name                     : &name "alex-yan"
 description              : &description "IT存储人士，深耕分布式存储10+，目前聚焦数据湖业务"
 url                      : https://alex-yan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "闫朝喜"
+  name             : "alex-yan"
   avatar           : "ycxicon.jpg"
   bio              : "IT:男:专注分布式存储以及大数据领域:现居成都"
   location         : "中国.成都"
   employer         :  "阿里云.存储专家"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : 
   email            : "chaoxiyan1225@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          :    
   dribbble         :
   flickr           :
   facebook         :
