@@ -1,19 +1,20 @@
 # main links links
 main:
-  - title: "发表著作"
-    url: /publications/
 
   - title: "闲聊"
     url: /talks/    
 
   - title: "技术话题"
     url: /teaching/    
-    
-  - title: "资料归档"
-    url: /portfolio/
         
   - title: "博客归档"
     url: /year-archive/
+    
+  - title: "学术著作"
+    url: /publications/
+    
+  - title: "有用资源"
+    url: /portfolio/
     
   - title: "个人简介"
     url: /cv/
