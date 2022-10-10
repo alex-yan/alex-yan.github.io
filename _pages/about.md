@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-关于作者
+About Me
 =====
 
 
