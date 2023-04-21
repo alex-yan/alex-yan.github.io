@@ -11,7 +11,7 @@ title                    : "分布式存储/分布式计算/分布式数据库/�
 title_separator          : "-"
 name                     : &name "神技圈子"
 description              : &description "由大厂人士组成，团队成员深耕分布式存储10+，分布式存储/分布式计算/分布式数据库/高端技能培训"
-url                      : https://alex-yan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shenjiquanzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shenjiquanzi/shenjiquanzi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "alex-yan"
+  name             : "shenjiquanzi"
   avatar           : "ycxicon.jpg"
-  bio              : "IT:男:专注分布式存储以及大数据领域:现居成都"
+  bio              : "分布式存储/分布式计算/分布式数据库/高端技能培训:现居成都"
   location         : "中国.成都"
   employer         :  "阿里云.存储专家"
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  csdn             : "%E6%9C%9D%E5%96%9C-%E9%97%AB-5171a2bb"
+  csdn             : "https://blog.csdn.net/songguangfan?type=blog
   orcid            : 
   pinterest        :
   soundcloud       :
