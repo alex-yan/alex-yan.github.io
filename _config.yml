@@ -8,11 +8,11 @@
 locale                   : "en-US"
 title                    : "存储/阿里云"
 title_separator          : "-"
-name                     : &name "alex-yan"
+name                     : &name "神技圈子"
 description              : &description "IT存储人士，深耕分布式存储10+，目前聚焦数据湖业务"
-url                      : https://alex-yan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shenjiquanzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alex-yan/alex-yan.github.io"
+repository               : "shenjiquanzi/shenjiquanzi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,7 +75,7 @@ analytics:
     tracking_id          :
 # Site Author
 author:
-  name             : "alex-yan"
+  name             : "神技圈子"
   avatar           : "ycxicon.jpg"
   bio              : "IT:男:专注分布式存储以及大数据领域:现居成都"
   location         : "中国.成都"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alex-yan"
+  github           : "shenjiquanzi"
   google_plus      :
   keybase          :
   instagram        :
